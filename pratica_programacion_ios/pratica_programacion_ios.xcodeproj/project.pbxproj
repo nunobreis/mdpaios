@@ -54,6 +54,9 @@
 		374DB5D520374D10005F1C97 /* pratica_programacion_ios */ = {
 			isa = PBXGroup;
 			children = (
+				37A7B1C0203864A500BB2F37 /* Controller */,
+				37A7B1BF2038649D00BB2F37 /* View */,
+				37A7B1BE2038649200BB2F37 /* Model */,
 				374DB5D620374D10005F1C97 /* AppDelegate.swift */,
 				374DB5D820374D10005F1C97 /* ViewController.swift */,
 				374DB5DA20374D10005F1C97 /* Main.storyboard */,
@@ -62,6 +65,27 @@
 				374DB5E220374D10005F1C97 /* Info.plist */,
 			);
 			path = pratica_programacion_ios;
+			sourceTree = "<group>";
+		};
+		37A7B1BE2038649200BB2F37 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		37A7B1BF2038649D00BB2F37 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		37A7B1C0203864A500BB2F37 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
